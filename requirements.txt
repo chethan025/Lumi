@@ -1,0 +1,8 @@
+python-dotenv
+sounddevice
+soundfile
+numpy
+scipy
+pyaudio
+playsound==1.2.2
+rich
