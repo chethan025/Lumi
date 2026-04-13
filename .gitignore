@@ -129,8 +129,11 @@ logs/
 data/memory/
 data/logs/
 
+# Audio files
+*.wav
+
 # Models (if large)
-# models/
+models/
 
 # Trash
 Trash/
